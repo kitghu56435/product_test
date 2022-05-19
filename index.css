@@ -1,0 +1,10 @@
+body{
+    background-color:blue;
+    margin:0px;
+}
+.item{
+    
+    background-color: black;
+    width:300px;
+    height:300px;
+}
