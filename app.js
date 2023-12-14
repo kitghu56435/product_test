@@ -27,6 +27,9 @@ app.listen(port,()=>{
 })
 
 
+let alan  = 'google'
+
+
 
 
 // rawHeaders 裡面有
