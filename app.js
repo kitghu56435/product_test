@@ -26,6 +26,8 @@ app.listen(port,()=>{
     console.log(`ip is running on port ${port}`);
 })
 
+let candy = 'google'
+
 
 
 
